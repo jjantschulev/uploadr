@@ -1,0 +1,13 @@
+{
+  "name": "uploadr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kraken22/uploadr.git",
+  "author": "Jordan Jantschulev <j.jantschulev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.2"
+  }
+}
