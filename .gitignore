@@ -61,4 +61,4 @@ typings/
 .next
 
 # uploaded files in data folder
-./data/*
+data/*
